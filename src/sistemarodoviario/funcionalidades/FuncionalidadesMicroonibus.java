@@ -1,6 +1,5 @@
 package sistemarodoviario.funcionalidades;
 import sistemarodoviario.objetos.MicroOnibus;
-import sistemarodoviario.objetos.Assento;
 
 public class FuncionalidadesMicroonibus extends FuncionalidadesOnibus {
     
